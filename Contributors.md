@@ -1437,6 +1437,7 @@
 - [Yingchid](https://github.com/Yingchid)
 - [Saurabh Katkar](https://github.com/saurabhkatkar)
 - [Nagarjun](https://github.com/nagarjun7397)
+- [HenryChase](https://github.com/henrychase411)
 
 
 <!-- prettier-ignore-end -->
